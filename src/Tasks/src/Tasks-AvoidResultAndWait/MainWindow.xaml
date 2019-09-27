@@ -1,0 +1,15 @@
+﻿<Window x:Class="Tasks_AvoidResultAndWait.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tasks_AvoidResultAndWait"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Executar" Content="Executar Wait" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Width="772" Height="69" Click="Executar_Click"/>
+        <Button x:Name="Executar_Result" Content="Executar Result" HorizontalAlignment="Left" Margin="20,84,0,0" VerticalAlignment="Top" Width="772" Height="69" Click="Executar_Result_Click" />
+        <TextBox x:Name="Resultado" HorizontalAlignment="Left" Height="237" Margin="20,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="762"/>
+
+    </Grid>
+</Window>
