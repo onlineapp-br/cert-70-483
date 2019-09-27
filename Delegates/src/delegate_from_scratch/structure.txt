@@ -1,0 +1,8 @@
+1- calling a method
+2- using delegates
+3- what problem it solves
+4- multicast
+5- lambda
+6- func
+7- actions
+8- exceptions
