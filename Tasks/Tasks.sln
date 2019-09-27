@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks-AvoidResultAndWait", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-Examples", "src\Task-Examples\Task-Examples.csproj", "{ECAF8FE6-525F-4C4B-BAEE-A489C91064C7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thead-Desafio-Novo", "Thead-Desafio-Novo\Thead-Desafio-Novo.csproj", "{E5B509A0-8F48-4F2C-87E4-741F85E4A51F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thead-Desafio-Novo", "src\Thead-Desafio-Novo\Thead-Desafio-Novo.csproj", "{E5B509A0-8F48-4F2C-87E4-741F85E4A51F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
