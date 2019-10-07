@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionCodeModel", "ReflectionCodeModel\ReflectionCodeModel.csproj", "{E81288C1-C0BC-448C-9ECC-D3AEC74B39D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionCodeModel", "src\ReflectionCodeModel\ReflectionCodeModel.csproj", "{E81288C1-C0BC-448C-9ECC-D3AEC74B39D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
